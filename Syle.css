@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: yellowgreen
+}
+img.{
+    width: 250px;
+    border-radius: 50%;
+}
+p.{
+    border-radius: 50%;
+    color: yellow;
+    font-family: cursive;
+}
+h1.{
+    text-shadow: 2px;
+    font-size: 20px;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    right: 30px;
+    color: black;
+    cursor: pointer
+}
